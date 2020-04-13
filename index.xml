@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aditya Rajpoot</title>
@@ -18,10 +18,10 @@
       
       <guid>https://www.imadityarajpoot.github.io/posts/render-latex-using-katex/</guid>
       <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
-+++katex = &amp;#34;true&amp;#34;+++If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
++++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
 It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
 Inline math looks like this
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$This is text with 
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.imadityarajpoot.github.io/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
 This is bold text
 This is italic text
 This is italic text
@@ -98,7 +98,7 @@ Follow the following steps:
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://www.imadityarajpoot.github.io/posts/migrate-from-jekyll/</guid>
-      <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
+      <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage  Finishing Touches  Fix Content Clean Up  A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
     </item>
     
     <item>
@@ -138,8 +138,7 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.imadityarajpoot.github.io/snippets/first/</guid>
-      <description>This content is in snippets/first/index.md
-pwd</description>
+      <description>This content is in snippets/first/index.md</description>
     </item>
     
     <item>
@@ -167,7 +166,7 @@ pwd</description>
       
       <guid>https://www.imadityarajpoot.github.io/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
-ls -la</description>
+ls -la</description>
     </item>
     
     <item>
